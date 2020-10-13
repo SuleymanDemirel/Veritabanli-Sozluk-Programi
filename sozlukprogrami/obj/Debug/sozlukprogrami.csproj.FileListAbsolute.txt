@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2015\Projects\sozlukprogrami\sozlukprogrami\bin\Debug\sozlukprogrami.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\sozlukprogrami\sozlukprogrami\bin\Debug\sozlukprogrami.exe
+c:\users\admin\documents\visual studio 2015\Projects\sozlukprogrami\sozlukprogrami\bin\Debug\sozlukprogrami.pdb
+c:\users\admin\documents\visual studio 2015\Projects\sozlukprogrami\sozlukprogrami\obj\Debug\sozlukprogrami.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\sozlukprogrami\sozlukprogrami\obj\Debug\sozlukprogrami.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\sozlukprogrami\sozlukprogrami\obj\Debug\sozlukprogrami.Form2.resources
+c:\users\admin\documents\visual studio 2015\Projects\sozlukprogrami\sozlukprogrami\obj\Debug\sozlukprogrami.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\sozlukprogrami\sozlukprogrami\obj\Debug\sozlukprogrami.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\sozlukprogrami\sozlukprogrami\obj\Debug\sozlukprogrami.exe
+c:\users\admin\documents\visual studio 2015\Projects\sozlukprogrami\sozlukprogrami\obj\Debug\sozlukprogrami.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\sozlukprogrami\sozlukprogrami\obj\Debug\sozlukprogrami.Form3.resources
