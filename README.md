@@ -1,2 +1,2 @@
 # Veritabanli-Sozluk-Programi
-Access veri tabanlı sözlük programı
+Access veri tabanlı,resimli sözlük programı
